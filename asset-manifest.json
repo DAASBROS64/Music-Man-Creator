@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/DAASBROS64/Music-Man-Creator.git/static/css/main.221d08e1.css",
-    "main.js": "/DAASBROS64/Music-Man-Creator.git/static/js/main.b4c96384.js",
-    "index.html": "/DAASBROS64/Music-Man-Creator.git/index.html",
-    "main.221d08e1.css.map": "/DAASBROS64/Music-Man-Creator.git/static/css/main.221d08e1.css.map",
-    "main.b4c96384.js.map": "/DAASBROS64/Music-Man-Creator.git/static/js/main.b4c96384.js.map"
+    "main.css": "./static/css/main.221d08e1.css",
+    "main.js": "./static/js/main.b4c96384.js",
+    "index.html": "./index.html",
+    "main.221d08e1.css.map": "./static/css/main.221d08e1.css.map",
+    "main.b4c96384.js.map": "./static/js/main.b4c96384.js.map"
   },
   "entrypoints": [
     "static/css/main.221d08e1.css",
